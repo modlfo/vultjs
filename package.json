@@ -1,6 +1,6 @@
 {
   "name": "vult",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Vult is a transcompiler well suited to write high-performance DSP code",
   "main": "vultjs.js",
   "author": "Leonardo Laguna Ruiz",
@@ -9,8 +9,8 @@
   "bin": {
     "vultc": "./vultjs.js"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/modlfo/vultjs.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modlfo/vultjs.git"
   }
 }
