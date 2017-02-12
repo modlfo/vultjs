@@ -507,7 +507,7 @@ _0(){var
 a=new
 Date()^4294967295*Math.random();return[0,a]}function
 _1(a){var
-b=Math.exp(a),c=Math.exp(-a);return(b+c)/(b-c)}function
+b=Math.exp(a),c=Math.exp(-a);return(b-c)/(b+c)}function
 cJ(a){var
 b=1;while(a&&a.joo_tramp){a=a.joo_tramp.apply(null,a.joo_args);b++}return a}function
 X(b,a){return{joo_tramp:b,joo_args:a}}function
