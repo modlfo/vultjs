@@ -1,23 +1,28 @@
 {
-   "name": "vult",
-   "version": "0.3.24",
-   "description": "Vult is a transcompiler well suited to write high-performance DSP code",
-   "main": "vultjs.js",
-   "author": "Leonardo Laguna Ruiz",
-   "license": "MIT",
-   "homepage": "http://modlfo.github.io/vult/",
-   "bin": {
-      "vultc": "./vultjs.js"
-   },
-   "repository": {
-      "type": "git",
-      "url": "https://github.com/modlfo/vultjs.git"
-   },
-   "bugs": {
-      "url": "https://github.com/modlfo/vult/issues"
-   },
-   "keywords": [
-      "dsp", "compiler", "synthesizer", "puredata", "music", "audio", "effects"
-   ]
-
+  "name": "vult",
+  "version": "0.3.25",
+  "description": "Vult is a transcompiler well suited to write high-performance DSP code",
+  "main": "vultjs.js",
+  "author": "Leonardo Laguna Ruiz",
+  "license": "MIT",
+  "homepage": "http://modlfo.github.io/vult/",
+  "bin": {
+    "vultc": "./vultjs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modlfo/vultjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/modlfo/vult/issues"
+  },
+  "keywords": [
+    "dsp",
+    "compiler",
+    "synthesizer",
+    "puredata",
+    "music",
+    "audio",
+    "effects"
+  ]
 }
