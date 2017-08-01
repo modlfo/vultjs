@@ -1,6 +1,6 @@
 ![Vult](http://modlfo.github.io/vult/images/VultH.png?raw=true "Vult")
 
-This is a fairly up-to-date JavaScript version of the Vult compiler that can be run with node.js.
+This is the JavaScript version of the Vult compiler that can be run with node.js. This is a command line application if you want to use it as a node.js library use instead [vultlib](https://www.npmjs.com/package/vultlib).
 
 You can find the full project in https://github.com/modlfo/vult
 
@@ -8,10 +8,16 @@ Tutorials and documentation can be found the main site http://modlfo.github.io/v
 
 ## Installing
 
-You can install it with the following command
+You can install the command line application with the following command
 
 ```
 $ npm install vult -g
+```
+
+You can install the library with
+
+```
+$ npm install vultlib
 ```
 
 ## Usage
