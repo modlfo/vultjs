@@ -22,6 +22,6 @@ $ npm install vultlib
 
 ## Usage
 
-After installing you should have an executable `vultc` which is the main Vult compiler. If `vultc` is not available, you can run the main JavaScript file (vultjs.js) with node.
+After installing you should have an executable `vultc` which is the main Vult compiler. If `vultc` is not available, you can run the main JavaScript file (vultc.js) with node.
 
 Refer to the main repository to get more information about using Vult https://github.com/modlfo/vult
