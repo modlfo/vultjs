@@ -1,6 +1,6 @@
 {
   "name": "vult",
-  "version": "0.3.28",
+  "version": "0.3.29",
   "description": "Vult is a transcompiler well suited to write high-performance DSP code",
   "main": "vultc.js",
   "author": "Leonardo Laguna Ruiz",
